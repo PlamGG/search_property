@@ -33,3 +33,18 @@
 1. **ติดตั้งไลบรารี**:
    ```bash
    pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/813f08f3-19f6-4c76-9d53-71195ee75e67
+
+
+
+   
